@@ -1,0 +1,10 @@
+python-telegram-bot==20.3
+aiohttp==3.9.1
+transformers==4.36.2
+torch==2.0.1
+accelerate==0.24.1
+sentencepiece==0.1.99
+protobuf==3.20.3
+requests==2.31.0
+Pillow==10.1.0  # для работы с изображениями
+python-dotenv==1.0.0
